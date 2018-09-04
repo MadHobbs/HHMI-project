@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this HHMI summer 2017 research project, I:
+Over the course of my 8 week HHMI research project in summer 2017, I...
 
 • Established how all 4,377 genes in the E. coli genome respond to varying levels of rpoS (key transcription regulator protein) by performing cluster analysis and statistical tests for differential expression
 
